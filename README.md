@@ -1,5 +1,7 @@
 # banao_t1
 
+Internship Task 1 by Across The Globe (ATG).
+
 A new Flutter project.
 
 ## Getting Started
